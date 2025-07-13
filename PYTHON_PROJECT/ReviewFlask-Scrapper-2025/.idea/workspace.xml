@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="870cbf82-d16b-485d-93c9-33ce7609f2be" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ImageScrapper/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ImageScrapper/.idea/ImageScrapper.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ImageScrapper/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ImageScrapper/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ImageScrapper/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ImageScrapper/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ImageScrapper/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ImageScrapper/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ImageScrapper/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ImageScrapper/scraper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ImageScrapper/scraper_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PYTHON PROJECT -2 ImageScrapper.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PYTHON PROJECT-1 Review_Scrapper.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Untitled.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class-3.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laptop1_info.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my own project.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/Airfoil_Noise_Prediction_Regression_Model/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/Airfoil_Noise_Prediction_Regression_Model/Airfoil_X_test_RNDM_FRST_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/Airfoil_Noise_Prediction_Regression_Model/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/Airfoil_Noise_Prediction_Regression_Model/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/Airfoil_Noise_Prediction_Regression_Model/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/Airfoil_Noise_Prediction_Regression_Model/RNDM_FRST_model.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/Airfoil_Noise_Prediction_Regression_Model/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/Airfoil_Noise_Prediction_Regression_Model/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/Airfoil_Noise_Prediction_Regression_Model/runtime.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/Airfoil_Noise_Prediction_Regression_Model/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/ML_AVNISH_PROJECT_TRAIN/ML_end_to_end_Project_Creation/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/ML_AVNISH_PROJECT_TRAIN/ML_end_to_end_Project_Creation/.github/workflows/main.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/ML_AVNISH_PROJECT_TRAIN/ML_end_to_end_Project_Creation/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/ML_AVNISH_PROJECT_TRAIN/ML_end_to_end_Project_Creation/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/ML_AVNISH_PROJECT_TRAIN/ML_end_to_end_Project_Creation/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/ML_AVNISH_PROJECT_TRAIN/ML_end_to_end_Project_Creation/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/ML_AVNISH_PROJECT_TRAIN/ML_end_to_end_Project_Creation/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/ML_AVNISH_PROJECT_TRAIN/ML_end_to_end_Project_Creation/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/ML_AVNISH_PROJECT_TRAIN/ML_end_to_end_Project_Creation/config/config.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/ML_AVNISH_PROJECT_TRAIN/ML_end_to_end_Project_Creation/config/schema.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/ML_AVNISH_PROJECT_TRAIN/ML_end_to_end_Project_Creation/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/ML_AVNISH_PROJECT_TRAIN/ML_end_to_end_Project_Creation/housing/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/ML_AVNISH_PROJECT_TRAIN/ML_end_to_end_Project_Creation/housing/component/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/ML_AVNISH_PROJECT_TRAIN/ML_end_to_end_Project_Creation/housing/component/data_ingestion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/ML_AVNISH_PROJECT_TRAIN/ML_end_to_end_Project_Creation/housing/component/data_transformation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/ML_AVNISH_PROJECT_TRAIN/ML_end_to_end_Project_Creation/housing/component/data_validation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/ML_AVNISH_PROJECT_TRAIN/ML_end_to_end_Project_Creation/housing/component/file.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/ML_AVNISH_PROJECT_TRAIN/ML_end_to_end_Project_Creation/housing/component/file1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/ML_AVNISH_PROJECT_TRAIN/ML_end_to_end_Project_Creation/housing/component/helloproject" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/ML_AVNISH_PROJECT_TRAIN/ML_end_to_end_Project_Creation/housing/component/model_evaluation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/ML_AVNISH_PROJECT_TRAIN/ML_end_to_end_Project_Creation/housing/component/model_pusher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/ML_AVNISH_PROJECT_TRAIN/ML_end_to_end_Project_Creation/housing/component/model_trainer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/ML_AVNISH_PROJECT_TRAIN/ML_end_to_end_Project_Creation/housing/component/read_Array" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/ML_AVNISH_PROJECT_TRAIN/ML_end_to_end_Project_Creation/housing/config/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/ML_AVNISH_PROJECT_TRAIN/ML_end_to_end_Project_Creation/housing/config/configuration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/ML_AVNISH_PROJECT_TRAIN/ML_end_to_end_Project_Creation/housing/constant/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/ML_AVNISH_PROJECT_TRAIN/ML_end_to_end_Project_Creation/housing/entity/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/ML_AVNISH_PROJECT_TRAIN/ML_end_to_end_Project_Creation/housing/entity/artifact_entity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/ML_AVNISH_PROJECT_TRAIN/ML_end_to_end_Project_Creation/housing/entity/config_entity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/ML_AVNISH_PROJECT_TRAIN/ML_end_to_end_Project_Creation/housing/entity/experiment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/ML_AVNISH_PROJECT_TRAIN/ML_end_to_end_Project_Creation/housing/entity/housing_predictor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/ML_AVNISH_PROJECT_TRAIN/ML_end_to_end_Project_Creation/housing/entity/jupyter.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/ML_AVNISH_PROJECT_TRAIN/ML_end_to_end_Project_Creation/housing/entity/model_factory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/ML_AVNISH_PROJECT_TRAIN/ML_end_to_end_Project_Creation/housing/exception/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/ML_AVNISH_PROJECT_TRAIN/ML_end_to_end_Project_Creation/housing/housing.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/ML_AVNISH_PROJECT_TRAIN/ML_end_to_end_Project_Creation/housing/housing.npz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/ML_AVNISH_PROJECT_TRAIN/ML_end_to_end_Project_Creation/housing/logger/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/ML_AVNISH_PROJECT_TRAIN/ML_end_to_end_Project_Creation/housing/pipeline/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/ML_AVNISH_PROJECT_TRAIN/ML_end_to_end_Project_Creation/housing/pipeline/pipeline.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/ML_AVNISH_PROJECT_TRAIN/ML_end_to_end_Project_Creation/housing/util/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/ML_AVNISH_PROJECT_TRAIN/ML_end_to_end_Project_Creation/housing/util/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/ML_AVNISH_PROJECT_TRAIN/ML_end_to_end_Project_Creation/notebook/config/model.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/ML_AVNISH_PROJECT_TRAIN/ML_end_to_end_Project_Creation/notebook/example.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/ML_AVNISH_PROJECT_TRAIN/ML_end_to_end_Project_Creation/notebook/example2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/ML_AVNISH_PROJECT_TRAIN/ML_end_to_end_Project_Creation/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/ML_AVNISH_PROJECT_TRAIN/ML_end_to_end_Project_Creation/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/ML_AVNISH_PROJECT_TRAIN/ML_end_to_end_Project_Creation/study/project.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/distributed-db-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/distributed-db-app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/distributed-db-app/application-architecture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/distributed-db-app/gateway_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/distributed-db-app/mongodb_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/distributed-db-app/mysql_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/distributed-db-app/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_ALL_projects/new_vegitable_project/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sumsung.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/Api_Project_2025/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/Api_Project_2025/.idea/Api_Project_2025.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/Api_Project_2025/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/Api_Project_2025/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/Api_Project_2025/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/Api_Project_2025/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/DICTPRINT/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/DICTPRINT/.idea/DICTPRINT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/DICTPRINT/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/DICTPRINT/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/DICTPRINT/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/DICTPRINT/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/DICTPRINT/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/DICTPRINT/ditctionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/DICTPRINT/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/MONGODB_POSTMAN/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/MONGODB_POSTMAN/.idea/MONGODB_POSTMAN.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/MONGODB_POSTMAN/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/MONGODB_POSTMAN/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/MONGODB_POSTMAN/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/MONGODB_POSTMAN/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/MONGODB_POSTMAN/MONGO_POST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/MONGODB_POSTMAN/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/MONGO_SQL_app/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/MONGO_SQL_app/.idea/MONGO_SQL_app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/MONGO_SQL_app/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/MONGO_SQL_app/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/MONGO_SQL_app/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/MONGO_SQL_app/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/MONGO_SQL_app/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/MONGO_SQL_app/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/distributed-database-gatway/.idea/distributed-database-gatway.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/distributed-database-gatway/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/distributed-database-gatway/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/distributed-database-gatway/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/distributed-database-gatway/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/distributed-database-gatway/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/distributed-database-gatway/gatway_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/distributed-database-gatway/mongodb_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/distributed-database-gatway/mysql_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/distributed-database-gatway/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/distributed-db-app/all-about-api" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/distributed-db-app/distributed-db-gateway-app" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PycharmProjects/flask_project_2025_envrn" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2uoDjr0dI5Xb8p2bDMqR8sYGovi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Amar Gajula/PycharmProjects/ReviewFlask-Scrapper-2025&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.log&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Amar Gajula\PycharmProjects\ReviewFlask-Scrapper-2025" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ReviewFlask-Scrapper-2025" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-4f4e415b4190-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.26053.29" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="870cbf82-d16b-485d-93c9-33ce7609f2be" name="Changes" comment="" />
+      <created>1742906171808</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742906171808</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
