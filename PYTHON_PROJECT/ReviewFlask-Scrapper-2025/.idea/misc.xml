@@ -3,4 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="ReviewFlask_env" />
   </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="ReviewFlask_env_3" project-jdk-type="Python SDK" />
 </project>
